@@ -7,14 +7,15 @@ export const data = [
         subTitle: "(Barcode & RFID)",
         desc: "Optimize your supply chain with GS1's advanced Barcode & RFID system. Enhance visibility, traceability, and operational efficiency seamlessly.",
         icon: Images.SupplyChain,
-        link: 'http://gs1ksa.org:3006'
+        link: 'https://wbs.gs1ksa.org/'
     },
     {
         id: 2,
         title: "Fixed Asset Tracking System",
         subTitle: "(Barcode & RFID)",
         desc: "Efficiently manage your fixed assets with Standards Barcode & RFID tracking system. Gain control, accuracy, and visibility throughout their lifecycle.",
-        icon: Images.assetTrack
+        icon: Images.assetTrack,
+        link: 'https://fats.gs1ksa.org/userLogin'
     },
     {
         id: 3,
